@@ -2,12 +2,16 @@
 
 Submitted by:
 - **Name:** Samyak Chaudhary
-- **Faculty:** BCSIT 
+- **Faculty:** BCSIT - Sec - A
 - **Semester:** 2nd
 - **College:** KFA 
 
 ## Overview
-This assignment contains 20 Python programs split into two sets that demonstrate various programming concepts.
+This assignment demonstrates my understanding of Python programming fundamentals through practical implementation. It includes two sets of programs:
+- Set A focuses on basic programming concepts like calculations, loops, patterns, and functions
+- Set B implements advanced problem-solving techniques using algorithms and data structures
+
+All programs are interactive and include proper error handling and user input validation.
 
 ### Set A: Basic Programs
 1. Calculator - Does basic math operations
@@ -26,7 +30,7 @@ This assignment contains 20 Python programs split into two sets that demonstrate
 14. Triangle Pattern - Makes star triangle
 15. Pyramid Pattern - Makes star pyramid
 
-### Set B: LeetCode Problems
+### Set B: 
 1. Palindrome Number - Checks if number reads same both ways
 2. Single Number - Finds non-repeated number
 3. Two Sum - Finds number pairs that add to target
