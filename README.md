@@ -1,6 +1,51 @@
-# Python Programming Assignment
+# Python Assignment
 
-This repository contains a collection of Python programming exercises divided into two sets (Set A and Set B). The exercises cover various programming concepts from basic calculations to algorithm implementations.
+Submitted by:
+- **Name:** Samyak Chaudhary
+- **Faculty:** BCSIT 
+- **Semester:** 2nd
+- **College:** KFA 
+
+## What's in this Project?
+
+This project contains Python programs that solve various programming problems. Think of it as a collection of small tools and puzzles that help learn Python programming. The problems are divided into two sets:
+
+### Set A: Basic Stuff (The Fundamentals)
+1. **Calculator**: A simple calculator that can add, subtract, multiply, and divide numbers
+2. **Number Converter**: Converts regular numbers to binary (like converting 5 to 101)
+3. **Age Checker**: Tells if someone is a kid, adult, or senior citizen
+4. **Number Swapper**: Swaps two numbers without using extra space
+5. **Fibonacci**: Prints the famous Fibonacci sequence (like 0,1,1,2,3,5,...)
+6. **Prime Checker**: Tells if a number is prime or not
+7. **Sum Checker**: Checks if two numbers add up to a third number
+8. **Factorial**: Calculates factorial of a number (like 5! = 5×4×3×2×1)
+9. **Safe Division**: Divides numbers while handling errors
+10. **Max Finder**: Finds the biggest number in a list
+11. **Greeter**: Says hello with your name and age
+12. **Vowel Counter**: Counts how many vowels are in a word
+13. **Times Table**: Shows multiplication tables
+14. **Star Pattern**: Makes a triangle using stars (*)
+15. **Pyramid**: Makes a pyramid using stars (*)
+
+### Set B: Coding Challenges (The Fun Stuff)
+1. **Palindrome**: Checks if a number reads the same forwards and backwards
+2. **Unique Finder**: Finds the one unique number in a list of pairs
+3. **Number Pairs**: Finds two numbers that add up to a target
+4. **Happy Numbers**: A fun math puzzle about "happy" numbers
+5. **Duplicate Checker**: Checks if any number appears twice in a list
+
+## How to Use This?
+
+1. Make sure you have Python installed on your computer
+2. Open the `Assignment.ipynb` file using Jupyter Notebook
+3. Run each program one by one
+4. Type in numbers or text when asked
+
+## What You Need
+- Python 3
+- Jupyter Notebook
+
+That's it! Each program is like a small tool that helps learn different parts of Python programming. Have fun trying them out! 😊
 
 ## File Structure
 
